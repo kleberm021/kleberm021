@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberm021" alt="kleberm021" /></a> </p>
 
-- 🔭 I’m currently working on [Pet-Friendly](https://github.com/acaciomartins/pet-friendly-frontend)
+- 🔭 Trabalhando atualmente no projeto: [Pet-Friendly](https://github.com/acaciomartins/pet-friendly-frontend)
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 Absorvendo conhecimento em: **Node.JS**
 
-- 💬 Ask me about **Html5, CSS3 and Javascript**
+- 💬 Tenho conhecimento em: **Html5, CSS3 and Javascript**
 
-- 📫 How to reach me **kleberm.tec@gmail.com**
+- 📫 Segue meu contato: **kleberm.tec@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kleber-mattos-9402b1226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleber-mattos-9402b1226" height="30" width="40" /></a>
 <a href="https://instagram.com/kmatt.os" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmatt.os" height="30" width="40" /></a>
