@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kleber Mattos</h1>
-<h3 align="center">Estudando Node.js</h3>
+<h1 align="center">Olá!👋, me chamo Kleber Mattos</h1>
+<h3 align="center">Atualmente estudando Node.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberm021&label=Profile%20views&color=0e75b6&style=flat" alt="kleberm021" /> </p>
 
