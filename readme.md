@@ -24,4 +24,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kleberm021&show_icons=true&locale=en" alt="kleberm021" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kleberm021&show_icons=true&locale=en" alt="kleberm021" /> </p>
