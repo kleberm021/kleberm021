@@ -1,15 +1,15 @@
 <h1 align="center">Olá!👋, me chamo Kleber Mattos</h1>
-<h3 align="center">Atualmente estudando Node.js</h3>
+<h3 align="center">Atualmente estudando Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberm021&label=Profile%20views&color=0e75b6&style=flat" alt="kleberm021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberm021" alt="kleberm021" /></a> </p>
 
-- 🔭 Trabalhando atualmente no projeto: [Pet-Friendly](https://github.com/acaciomartins/pet-friendly-frontend)
+- 🔭 Trabalhando atualmente no projeto: [Criando Tabelas em Python](https://github.com/acaciomartins/pet-friendly-frontend)
 
-- 🌱 Absorvendo conhecimento em: **Node.JS**
+- 🌱 Absorvendo conhecimento em: **Python**
 
-- 💬 Tenho conhecimento em: **Html5, CSS3 and Javascript**
+- 💬 Tenho conhecimento em: **SQL, PowerBI, Azure DataFactory**
 
 - 📫 Segue meu contato: **kleberm.tec@gmail.com**
 
