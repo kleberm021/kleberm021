@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberm021" alt="kleberm021" /></a> </p>
 
-- 🔭 Trabalhando atualmente no projeto: [Criando Tabelas em Python](https://github.com/acaciomartins/pet-friendly-frontend)
+- 🔭 Trabalhando atualmente no projeto: [Criando Tabelas em Python](git@github.com:kleberm021/projeto-python-1.git)
 
 - 🌱 Absorvendo conhecimento em: **Python**
 
